@@ -1,0 +1,3 @@
+ALTER TABLE rooms ADD COLUMN theme TEXT DEFAULT 'purple';
+ALTER TABLE rooms ADD COLUMN emoji TEXT DEFAULT '🎲';
+ALTER TABLE rooms ADD COLUMN archived BOOLEAN DEFAULT false; 
