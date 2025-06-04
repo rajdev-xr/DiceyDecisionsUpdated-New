@@ -21,13 +21,6 @@ DiceyDecisions is a gamified, real-time decision-making app for friend groups, r
 
 ---
 
-## 📸 Screenshots
-
-> _Add your screenshots here!_
-
-![screenshot description](assets/)
----
-
 ## Implementation Notes
 
 ### Real-time Experience
@@ -83,8 +76,8 @@ Confetti and sound effects for winning and achievement unlocks
 
 ```bash
 # 1. Clone the repo
-$ git clone https://github.com/rajdev-xr/DiceyDecisionsUpdated.git
-$ cd DiceyDecisionsUpdated-main
+$ git clone https://github.com/rajdev-xr/DiceyDecisionsUpdated-New.git
+$ cd DiceyDecisionsUpdated-New-main
 
 # 2. Install dependencies
 $ npm install
