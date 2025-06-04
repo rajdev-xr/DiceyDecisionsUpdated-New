@@ -8,7 +8,7 @@ DiceyDecisions is a gamified, real-time decision-making app for friend groups, r
 
 🚀 Live Demo
 
-[🚀 Live Demo](dicey-decisions-updated-new.vercel.app)
+[🚀 Live Demo](https://dicey-decisions-updated-new.vercel.app/)
 
 ## 🚀 Features
 
